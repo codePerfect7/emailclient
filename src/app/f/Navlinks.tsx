@@ -13,6 +13,7 @@ type Props = {
 
 export default function Navlinks({ emails, user }: Props) {
   const segment = useSelectedLayoutSegment();
+  // const ems = [...emails, ...emails, ...emails, ...emails, ...emails];
 
   return (
     <>
