@@ -18,13 +18,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/ayshthkr/email-client.git
+  git clone https://github.com/codePerfect7/emailclient.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd email-client
+  cd emailclient
 ```
 
 Install dependencies
